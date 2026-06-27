@@ -7,11 +7,11 @@ Business analytics platform for pricing analysis, historical data management, an
 The Pricing Analytics Platform is a real-world business analytics project developed to improve the pricing workflow of a manufacturing and distribution company operating in a dynamic market environment.
 
 The company manufactures, imports, and distributes industrial power products. Because product costs and market conditions change frequently, pricing decisions must be reviewed regularly. These decisions are currently performed manually and rely on information scattered across multiple systems and spreadsheets.
-
 The objective of this project is to consolidate pricing-related information, preserve historical data, and provide reliable analytical tools that support pricing decisions without replacing management's judgment.
 ---
 
 ## Business Problem
+
 The existing pricing workflow presents several challenges:
 
 Pricing history is not stored in a centralized system.
@@ -23,9 +23,11 @@ Repeating analyses is time-consuming and difficult to standardize.
 This project addresses these issues by building a reusable analytics platform capable of organizing data, preserving historical information, and producing consistent management reports.
 ---
 ## Development Approach
+
 The project is being developed incrementally, beginning with business discovery and requirements analysis before moving to implementation.
 ---
 ## Planned Capabilities
+
 Historical price tracking
 Sales impact analysis
 Price elasticity analysis
@@ -36,6 +38,7 @@ Modular reporting engine
 Future scenario simulation tools
 ---
 ## Planned Technology Stack
+
 Potential technologies include:
 
 Python
@@ -47,6 +50,7 @@ Git & GitHub
 Technology choices will evolve as business requirements become clearer.
 ---
 ## Repository Structure
+
 docs/          Project documentation
 src/           Application source code
 data/          Sample datasets and data specifications
@@ -55,6 +59,7 @@ reports/       Generated reports
 tests/         Automated tests
 ---
 ## Guiding Principles
+
 Business requirements before technology
 Data quality before analytics
 Documentation throughout development
@@ -63,4 +68,5 @@ Incremental delivery
 Decision support rather than decision automation
 ---
 ## Disclaimer
+
 This repository documents the design and development of a real-world analytics platform. No proprietary company information, confidential business data, or sensitive operational details are included.
