@@ -1,4 +1,4 @@
-# pricing-analytics-platform
+# Pricing Analytics Platform
 Business analytics platform for pricing analysis, historical data management, and decision support.
 
 ---
